@@ -5,6 +5,11 @@
 
 -> You can share the link of Image and also the Image itself with your fiends and family members.
 
+Insights :-
+
+--> Retrofit is used in order to manage the process of receiving, sending, and creating HTTP requests and responses.
+
+--> Picasso library is used to get Images using url's.
 
 Demo Video : 
 
